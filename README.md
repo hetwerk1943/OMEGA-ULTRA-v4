@@ -221,8 +221,6 @@ default_model: fast-model
 
 ## 📌 `README.md`
 
-(Wklej README który Ci wcześniej przygotowałem)
-
 ---
 
 # ▶️ Jak uruchomić
